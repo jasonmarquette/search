@@ -31,7 +31,6 @@ def main(file_path):
         print(f"An error occurred: {e}")
 
 # Example usage
-if __name__ == "__main__":
-    # Replace 'your_text_file.txt' with the path to your text file
-    file_path = 'your_text_file.txt'
-    main(file_path)
+
+file_path = 'text_file.txt'
+main(file_path)
